@@ -5,43 +5,9 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Apr 2026 16:13:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 18:14:38 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Irankrieg: US-Präsident kündigt Blockade der Straße von Hormus an</title>
-      <link>https://www.spiegel.de/ausland/irankrieg-donald-trump-kuendigt-blockade-der-strasse-von-hormus-an-a-92151254-d2f8-44e7-951a-f7f93fba4e72</link>
-      <description>Donald Trump reagiert auf die erfolglosen Gespräche mit Iran über ein Ende des Kriegs. Die US-Marine soll ab sofort Schiffe aufhalten, die Iran noch durch die Straße von Hormus kommen lässt.</description>
-      <pubDate>Sun, 12 Apr 2026 13:56:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.spiegel.de/ausland/irankrieg-donald-trump-kuendigt-blockade-der-strasse-von-hormus-an-a-92151254-d2f8-44e7-951a-f7f93fba4e72</guid>
-      <category>clippings</category>
-      <category>rss</category>
-      <enclosure url="https://cdn.prod.www.spiegel.de/images/79669b09-60c9-4eae-901c-19102ac683f6_w1200_r1.778_fpx49_fpy45.jpg" type="image/jpeg" length="0" />
-      <media:content url="https://cdn.prod.www.spiegel.de/images/79669b09-60c9-4eae-901c-19102ac683f6_w1200_r1.778_fpx49_fpy45.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Ungarn: Hohe Beteiligung bei Parlamentswahl 2026 zeichnet sich ab</title>
-      <link>https://www.spiegel.de/ausland/ungarn-hohe-beteiligung-bei-parlamentswahl-2026-zeichnet-sich-ab-a-b9e0fdb6-bfa5-4a19-b2b2-05ab6bf4fbdb</link>
-      <description>Bis zum Mittag haben weit mehr Menschen ihre Stimme abgegeben als bei der Wahl 2022. Viktor Orbáns Herausforderer Péter Magyar sprach nach seiner Stimmabgabe von einer »Wahl zwischen Ost und West«.</description>
-      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.spiegel.de/ausland/ungarn-hohe-beteiligung-bei-parlamentswahl-2026-zeichnet-sich-ab-a-b9e0fdb6-bfa5-4a19-b2b2-05ab6bf4fbdb</guid>
-      <category>clippings</category>
-      <category>rss</category>
-    </item>
-    <item>
-      <title>The Quiet Shift in AI Agents: Why Hermes Is Gaining Ground Beyond OpenClaw</title>
-      <link>https://medium.com/@kunwarmahen/the-quiet-shift-in-ai-agents-why-hermes-is-gaining-ground-beyond-openclaw-6364df765d3a</link>
-      <description>The Quiet Shift in AI Agents: Why Hermes Is Gaining Ground Beyond OpenClaw There’s a familiar pattern in technology. The spotlight almost always lands on the loudest, most extensible, most widely …</description>
-      <pubDate>Sat, 04 Apr 2026 19:41:53 +0000</pubDate>
-      <guid isPermaLink="true">https://medium.com/@kunwarmahen/the-quiet-shift-in-ai-agents-why-hermes-is-gaining-ground-beyond-openclaw-6364df765d3a</guid>
-      <category>AI</category>
-      <category>Hermes_AI</category>
-      <category>Agent</category>
-      <category>AI_Keynote</category>
-      <category>tolearn</category>
-      <category>rss</category>
-      <category>substack</category>
-    </item>
     <item>
       <title>Atos lance Atos AMOS-AI avec Red Hat OpenShift AI</title>
       <link>https://atos.net/fr/2025/communiques-de-presse_2025_11_12/atos-lance-atos-amos-ai-avec-red-hat-openshift-ai</link>
@@ -55,19 +21,6 @@
       <category>newas</category>
       <category>ai</category>
       <category>rss</category>
-    </item>
-    <item>
-      <title>#23 Edition: China’s Six Tigers: The New Force in AI</title>
-      <link>https://www.humanintheloop.online/p/23-edition-china-s-six-tigers-the-new-force-in-ai?utm_source=www.humanintheloop.online&amp;utm_medium=newsletter&amp;utm_campaign=23-edition-china-s-six-tigers-the-new-force-in-ai&amp;_bhlid=8a7f75d2e92bf9fb4e9cc7f4edf02d2ef297b0d2</link>
-      <description>PLUS: Apple + Google supercharge Siri with Gemini and IBM launches Granite-4.0 Nano</description>
-      <pubDate>Thu, 13 Nov 2025 09:37:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.humanintheloop.online/p/23-edition-china-s-six-tigers-the-new-force-in-ai?utm_source=www.humanintheloop.online&amp;utm_medium=newsletter&amp;utm_campaign=23-edition-china-s-six-tigers-the-new-force-in-ai&amp;_bhlid=8a7f75d2e92bf9fb4e9cc7f4edf02d2ef297b0d2</guid>
-      <category>clippings</category>
-      <category>ai</category>
-      <category>newsletter</category>
-      <category>human_in_the_loop</category>
-      <category>rss</category>
-      <category>linkedin</category>
     </item>
   </channel>
 </rss>
