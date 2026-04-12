@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Apr 2026 18:19:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 18:25:31 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,28 +14,8 @@
       <description>The Quiet Shift in AI Agents: Why Hermes Is Gaining Ground Beyond OpenClaw There’s a familiar pattern in technology. The spotlight almost always lands on the loudest, most extensible, most widely …</description>
       <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://medium.com/@kunwarmahen/the-quiet-shift-in-ai-agents-why-hermes-is-gaining-ground-beyond-openclaw-6364df765d3a</guid>
-      <category>clippings</category>
-      <category>AI</category>
-      <category>agent</category>
-      <category>rss</category>
-      <category>linkedin</category>
-      <category>tolearn</category>
       <enclosure url="https://miro.medium.com/v2/resize:fit:800/1*DtwVeutuIrNhAZ3h-nNUoA.png" type="image/jpeg" length="0" />
       <media:content url="https://miro.medium.com/v2/resize:fit:800/1*DtwVeutuIrNhAZ3h-nNUoA.png" medium="image" />
-    </item>
-    <item>
-      <title>Atos lance Atos AMOS-AI avec Red Hat OpenShift AI</title>
-      <link>https://atos.net/fr/2025/communiques-de-presse_2025_11_12/atos-lance-atos-amos-ai-avec-red-hat-openshift-ai</link>
-      <description>Atos lance Atos AMOS-AI avec Red Hat OpenShift AI, une solution hybride et multicloud flexible pour des données contrôlées et un cloud souverain</description>
-      <pubDate>Fri, 14 Nov 2025 11:45:25 +0000</pubDate>
-      <guid isPermaLink="true">https://atos.net/fr/2025/communiques-de-presse_2025_11_12/atos-lance-atos-amos-ai-avec-red-hat-openshift-ai</guid>
-      <category>clippings</category>
-      <category>atos</category>
-      <category>GSI-Atos</category>
-      <category>pr</category>
-      <category>newas</category>
-      <category>ai</category>
-      <category>rss</category>
     </item>
   </channel>
 </rss>
