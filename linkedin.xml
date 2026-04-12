@@ -5,8 +5,21 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Apr 2026 13:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 13:37:41 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/linkedin.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#23 Edition: China’s Six Tigers: The New Force in AI</title>
+      <link>https://www.humanintheloop.online/p/23-edition-china-s-six-tigers-the-new-force-in-ai?utm_source=www.humanintheloop.online&amp;utm_medium=newsletter&amp;utm_campaign=23-edition-china-s-six-tigers-the-new-force-in-ai&amp;_bhlid=8a7f75d2e92bf9fb4e9cc7f4edf02d2ef297b0d2</link>
+      <description>PLUS: Apple + Google supercharge Siri with Gemini and IBM launches Granite-4.0 Nano</description>
+      <pubDate>Thu, 13 Nov 2025 09:37:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.humanintheloop.online/p/23-edition-china-s-six-tigers-the-new-force-in-ai?utm_source=www.humanintheloop.online&amp;utm_medium=newsletter&amp;utm_campaign=23-edition-china-s-six-tigers-the-new-force-in-ai&amp;_bhlid=8a7f75d2e92bf9fb4e9cc7f4edf02d2ef297b0d2</guid>
+      <category>clippings</category>
+      <category>ai</category>
+      <category>newsletter</category>
+      <category>human_in_the_loop</category>
+      <category>rss</category>
+      <category>linkedin</category>
+    </item>
   </channel>
 </rss>
