@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Tech_Insights · Substack</title>
+    <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
+    <description>curated_collection</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Apr 2026 13:25:51 +0000</lastBuildDate>
+    <generator>obsidian-rss-generator</generator>
+    <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/substack.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
