@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2026 08:13:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 16:07:44 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/substack.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -16,6 +16,15 @@
       <guid isPermaLink="true">https://medium.com/@1095193290/from-resident-evil-to-vibe-coding-why-milla-jovovichs-ai-project-smells-like-a-crypto-scam-f5bbec35b3e8</guid>
       <enclosure url="https://miro.medium.com/v2/da:true/resize:fit:1200/0*MM3WgRYqhpVLiFMg" type="image/jpeg" length="0" />
       <media:content url="https://miro.medium.com/v2/da:true/resize:fit:1200/0*MM3WgRYqhpVLiFMg" medium="image" />
+    </item>
+    <item>
+      <title>The Private AI Model Explosion</title>
+      <link>https://www.forrester.com/blogs/the-private-ai-model-explosion/</link>
+      <description>In five years, 70% of the revenue created by AI will be in private models, not public models. Why? In a word, trust.</description>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.forrester.com/blogs/the-private-ai-model-explosion/</guid>
+      <enclosure url="https://go.forrester.com/wp-content/uploads/2026/03/The-Private-AI-Model-Explosion_social-share.png" type="image/jpeg" length="0" />
+      <media:content url="https://go.forrester.com/wp-content/uploads/2026/03/The-Private-AI-Model-Explosion_social-share.png" medium="image" />
     </item>
   </channel>
 </rss>

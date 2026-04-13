@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2026 08:13:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 16:07:44 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -88,6 +88,15 @@
       <guid isPermaLink="true">https://openai.com/index/openai-acquires-tbpn/</guid>
       <enclosure url="https://images.ctfassets.net/kftzwdyauwt9/1r6GrogaVsLY9VGAL871G6/9319636f74fa5a4d16d391476a6f85f1/Frame-1.png?w=1600&amp;h=900&amp;fit=fill" type="image/jpeg" length="0" />
       <media:content url="https://images.ctfassets.net/kftzwdyauwt9/1r6GrogaVsLY9VGAL871G6/9319636f74fa5a4d16d391476a6f85f1/Frame-1.png?w=1600&amp;h=900&amp;fit=fill" medium="image" />
+    </item>
+    <item>
+      <title>The Private AI Model Explosion</title>
+      <link>https://www.forrester.com/blogs/the-private-ai-model-explosion/</link>
+      <description>In five years, 70% of the revenue created by AI will be in private models, not public models. Why? In a word, trust.</description>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.forrester.com/blogs/the-private-ai-model-explosion/</guid>
+      <enclosure url="https://go.forrester.com/wp-content/uploads/2026/03/The-Private-AI-Model-Explosion_social-share.png" type="image/jpeg" length="0" />
+      <media:content url="https://go.forrester.com/wp-content/uploads/2026/03/The-Private-AI-Model-Explosion_social-share.png" medium="image" />
     </item>
     <item>
       <title>Thread by @karpathy</title>
