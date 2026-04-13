@@ -5,9 +5,72 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Apr 2026 18:31:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 07:28:14 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban</link>
+      <description>The popular combination of OpenClaw and Claude Code is being severed now that Anthropic has announced it will start charging subscribers extra to access its AI with third-party tools.</description>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban</guid>
+      <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" type="image/jpeg" length="0" />
+      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+    </item>
+    <item>
+      <title>From Resident Evil to “Vibe Coding”: Why Milla Jovovich’s AI Project Smells Like a Crypto Scam</title>
+      <link>https://medium.com/@1095193290/from-resident-evil-to-vibe-coding-why-milla-jovovichs-ai-project-smells-like-a-crypto-scam-f5bbec35b3e8</link>
+      <description>From Resident Evil to “Vibe Coding”: Why Milla Jovovich’s AI Project Smells Like a Crypto Scam Back in the day, watching Alice in Resident Evil dual-wielding submachine guns to clear out hordes …</description>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://medium.com/@1095193290/from-resident-evil-to-vibe-coding-why-milla-jovovichs-ai-project-smells-like-a-crypto-scam-f5bbec35b3e8</guid>
+      <enclosure url="https://miro.medium.com/v2/da:true/resize:fit:1200/0*MM3WgRYqhpVLiFMg" type="image/jpeg" length="0" />
+      <media:content url="https://miro.medium.com/v2/da:true/resize:fit:1200/0*MM3WgRYqhpVLiFMg" medium="image" />
+    </item>
+    <item>
+      <title>Gemma 4: Byte for byte, the most capable open models</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/</link>
+      <description>Gemma 4: our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.</description>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/</guid>
+      <enclosure url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma-4_blog_keyword_meta-dark.width-1300.png" type="image/jpeg" length="0" />
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma-4_blog_keyword_meta-dark.width-1300.png" medium="image" />
+    </item>
+    <item>
+      <title>How I’m Actually Using AI at Work</title>
+      <link>https://medium.com/@padmadv/how-im-actually-using-ai-at-work-81f10a7d8292</link>
+      <description>How I’m Actually Using AI at Work Everyone is talking about AI right now. But the question I keep hearing at work is pretty simple: how do I actually use this in my day-to-day? Is it making me …</description>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://medium.com/@padmadv/how-im-actually-using-ai-at-work-81f10a7d8292</guid>
+      <enclosure url="https://miro.medium.com/v2/resize:fit:1200/1*-J7jPxP0zgpZJvYe9NOpFw.png" type="image/jpeg" length="0" />
+      <media:content url="https://miro.medium.com/v2/resize:fit:1200/1*-J7jPxP0zgpZJvYe9NOpFw.png" medium="image" />
+    </item>
+    <item>
+      <title>MemPalace - How Milla Jovovich's AI Project Scammed the Internet</title>
+      <link>https://www.youtube.com/watch?v=WlxNNvDHJkE&amp;t=29s</link>
+      <description>MemPalace, the celebrity-backed AI memory system launched by Milla Jovovich, promised revolutionary performance and open-source freedom. It quickly went vira...</description>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=WlxNNvDHJkE&amp;t=29s</guid>
+      <enclosure url="https://i.ytimg.com/vi/WlxNNvDHJkE/maxresdefault.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://i.ytimg.com/vi/WlxNNvDHJkE/maxresdefault.jpg" medium="image" />
+    </item>
+    <item>
+      <title>OpenAI acquires TBPN</title>
+      <link>https://openai.com/index/openai-acquires-tbpn/</link>
+      <description>OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.</description>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/openai-acquires-tbpn/</guid>
+      <enclosure url="https://images.ctfassets.net/kftzwdyauwt9/1r6GrogaVsLY9VGAL871G6/9319636f74fa5a4d16d391476a6f85f1/Frame-1.png?w=1600&amp;h=900&amp;fit=fill" type="image/jpeg" length="0" />
+      <media:content url="https://images.ctfassets.net/kftzwdyauwt9/1r6GrogaVsLY9VGAL871G6/9319636f74fa5a4d16d391476a6f85f1/Frame-1.png?w=1600&amp;h=900&amp;fit=fill" medium="image" />
+    </item>
+    <item>
+      <title>Thread by @karpathy</title>
+      <link>https://x.com/karpathy/status/2039805659525644595</link>
+      <description>LLM Knowledge Bases Something I'm finding very useful recently: using LLMs to build personal knowledge bases for various topics of research</description>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2039805659525644595</guid>
+      <enclosure url="https://abs.twimg.com/rweb/ssr/default/v2/og/image.png" type="image/jpeg" length="0" />
+      <media:content url="https://abs.twimg.com/rweb/ssr/default/v2/og/image.png" medium="image" />
+    </item>
     <item>
       <title>The Quiet Shift in AI Agents: Why Hermes Is Gaining Ground Beyond OpenClaw</title>
       <link>https://medium.com/@kunwarmahen/the-quiet-shift-in-ai-agents-why-hermes-is-gaining-ground-beyond-openclaw-6364df765d3a</link>

@@ -5,8 +5,17 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Apr 2026 18:31:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 07:28:15 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/substack.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Resident Evil to “Vibe Coding”: Why Milla Jovovich’s AI Project Smells Like a Crypto Scam</title>
+      <link>https://medium.com/@1095193290/from-resident-evil-to-vibe-coding-why-milla-jovovichs-ai-project-smells-like-a-crypto-scam-f5bbec35b3e8</link>
+      <description>From Resident Evil to “Vibe Coding”: Why Milla Jovovich’s AI Project Smells Like a Crypto Scam Back in the day, watching Alice in Resident Evil dual-wielding submachine guns to clear out hordes …</description>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://medium.com/@1095193290/from-resident-evil-to-vibe-coding-why-milla-jovovichs-ai-project-smells-like-a-crypto-scam-f5bbec35b3e8</guid>
+      <enclosure url="https://miro.medium.com/v2/da:true/resize:fit:1200/0*MM3WgRYqhpVLiFMg" type="image/jpeg" length="0" />
+      <media:content url="https://miro.medium.com/v2/da:true/resize:fit:1200/0*MM3WgRYqhpVLiFMg" medium="image" />
+    </item>
   </channel>
 </rss>
