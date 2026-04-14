@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
-    <title>Tech_Insights · RSS</title>
+    <title>Tech_Insights</title>
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Apr 2026 08:08:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 14:29:44 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -16,6 +16,24 @@
       <guid isPermaLink="true">https://www.youtube.com/watch?v=WhbH4cpdi7Q</guid>
       <enclosure url="https://i.ytimg.com/vi/WhbH4cpdi7Q/maxresdefault.jpg" type="image/jpeg" length="0" />
       <media:content url="https://i.ytimg.com/vi/WhbH4cpdi7Q/maxresdefault.jpg" medium="image" />
+    </item>
+    <item>
+      <title>France to ditch Windows for Linux to reduce reliance on US tech</title>
+      <link>https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/</link>
+      <description>France's move to ditch Windows for Linux is its latest effort to reduce its reliance on American tech giants.</description>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/</guid>
+      <enclosure url="https://techcrunch.com/wp-content/uploads/2026/04/france-flag-2233577438.jpg?resize=1200,873" type="image/jpeg" length="0" />
+      <media:content url="https://techcrunch.com/wp-content/uploads/2026/04/france-flag-2233577438.jpg?resize=1200,873" medium="image" />
+    </item>
+    <item>
+      <title>Project Glasswing: Securing critical software for the AI era</title>
+      <link>https://www.anthropic.com/glasswing?utm_source=www.humanintheloop.online&amp;utm_medium=newsletter&amp;utm_campaign=why-most-claude-code-setups-are-overbuilt&amp;_bhlid=220b79a6442db39e6c2f48dff982a30b1a9b512d</link>
+      <description>A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.</description>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/glasswing?utm_source=www.humanintheloop.online&amp;utm_medium=newsletter&amp;utm_campaign=why-most-claude-code-setups-are-overbuilt&amp;_bhlid=220b79a6442db39e6c2f48dff982a30b1a9b512d</guid>
+      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/65641e7846f10255c4a3415a10bbf5793ae87b13-1200x630.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://cdn.sanity.io/images/4zrzovbb/website/65641e7846f10255c4a3415a10bbf5793ae87b13-1200x630.jpg" medium="image" />
     </item>
     <item>
       <title>Unmasking the Creator of Bitcoin</title>
