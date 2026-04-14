@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2026 16:07:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 08:08:24 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -16,6 +16,24 @@
       <guid isPermaLink="true">https://www.youtube.com/watch?v=WhbH4cpdi7Q</guid>
       <enclosure url="https://i.ytimg.com/vi/WhbH4cpdi7Q/maxresdefault.jpg" type="image/jpeg" length="0" />
       <media:content url="https://i.ytimg.com/vi/WhbH4cpdi7Q/maxresdefault.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Unmasking the Creator of Bitcoin</title>
+      <link>https://www.youtube.com/watch?v=7RlaC9ZJNtA&amp;t=1110s</link>
+      <description>Who is Satoshi Nakamoto? Bitcoin’s pseudonymous founder has hidden his identity for 17 years despite many attempts to unmask him, even as his cryptocurrency has revolutionized finance and made him a b</description>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=7RlaC9ZJNtA&amp;t=1110s</guid>
+      <enclosure url="https://i.ytimg.com/vi/7RlaC9ZJNtA/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AG2CIAC4ASKAgwIABABGBMgVih_MA8=&amp;rs=AOn4CLBFTmH7HReaYQScDDxpyKZ4xdCl2A" type="image/jpeg" length="0" />
+      <media:content url="https://i.ytimg.com/vi/7RlaC9ZJNtA/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AG2CIAC4ASKAgwIABABGBMgVih_MA8=&amp;rs=AOn4CLBFTmH7HReaYQScDDxpyKZ4xdCl2A" medium="image" />
+    </item>
+    <item>
+      <title>forrestchang/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.</title>
+      <link>https://github.com/forrestchang/andrej-karpathy-skills</link>
+      <description>A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. - forrestchang/andrej-karpathy-skills</description>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://github.com/forrestchang/andrej-karpathy-skills</guid>
+      <enclosure url="https://opengraph.githubassets.com/eac74f61e68d8047bc450e007d140466293100d80193abab74946e47d4032193/forrestchang/andrej-karpathy-skills" type="image/jpeg" length="0" />
+      <media:content url="https://opengraph.githubassets.com/eac74f61e68d8047bc450e007d140466293100d80193abab74946e47d4032193/forrestchang/andrej-karpathy-skills" medium="image" />
     </item>
     <item>
       <title>Alex Karp Says Two Types of People Are Safe in the AI Era. He Might Be Right.</title>

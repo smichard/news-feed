@@ -5,9 +5,18 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2026 16:07:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 08:08:24 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/linkedin.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unmasking the Creator of Bitcoin</title>
+      <link>https://www.youtube.com/watch?v=7RlaC9ZJNtA&amp;t=1110s</link>
+      <description>Who is Satoshi Nakamoto? Bitcoin’s pseudonymous founder has hidden his identity for 17 years despite many attempts to unmask him, even as his cryptocurrency has revolutionized finance and made him a b</description>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=7RlaC9ZJNtA&amp;t=1110s</guid>
+      <enclosure url="https://i.ytimg.com/vi/7RlaC9ZJNtA/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AG2CIAC4ASKAgwIABABGBMgVih_MA8=&amp;rs=AOn4CLBFTmH7HReaYQScDDxpyKZ4xdCl2A" type="image/jpeg" length="0" />
+      <media:content url="https://i.ytimg.com/vi/7RlaC9ZJNtA/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AG2CIAC4ASKAgwIABABGBMgVih_MA8=&amp;rs=AOn4CLBFTmH7HReaYQScDDxpyKZ4xdCl2A" medium="image" />
+    </item>
     <item>
       <title>The Private AI Model Explosion</title>
       <link>https://www.forrester.com/blogs/the-private-ai-model-explosion/</link>
