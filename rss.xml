@@ -5,9 +5,18 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Apr 2026 16:08:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 08:08:45 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sam Altman May Control Our Future—Can He Be Trusted?</title>
+      <link>https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted</link>
+      <description>New interviews and closely guarded documents shed light on the persistent doubts about the head of OpenAI, Ronan Farrow and Andrew Marantz write.</description>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted</guid>
+      <enclosure url="https://media.newyorker.com/photos/69cd326ac6ea0f4558d6e181/16:9/w_1280,c_limit/r47927.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://media.newyorker.com/photos/69cd326ac6ea0f4558d6e181/16:9/w_1280,c_limit/r47927.jpg" medium="image" />
+    </item>
     <item>
       <title>Brian Stevens &amp; Robert Shaw, Red Hat | Kubecon + CloudNativeCon EU 2026</title>
       <link>https://www.youtube.com/watch?v=WhbH4cpdi7Q</link>
