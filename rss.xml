@@ -5,9 +5,18 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Apr 2026 08:12:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 16:09:09 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>getcompanion-ai/feynman</title>
+      <link>https://github.com/getcompanion-ai/feynman</link>
+      <description>Contribute to getcompanion-ai/feynman development by creating an account on GitHub.</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://github.com/getcompanion-ai/feynman</guid>
+      <enclosure url="https://opengraph.githubassets.com/a3d8209befede4b2c4d48cd3894a361c282ce4786d45444a53e575eb9f9fbf3d/getcompanion-ai/feynman" type="image/jpeg" length="0" />
+      <media:content url="https://opengraph.githubassets.com/a3d8209befede4b2c4d48cd3894a361c282ce4786d45444a53e575eb9f9fbf3d/getcompanion-ai/feynman" medium="image" />
+    </item>
     <item>
       <title>My Quest to Solve Bitcoin’s Great Mystery</title>
       <link>https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html</link>
