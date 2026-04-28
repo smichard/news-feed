@@ -5,9 +5,18 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Apr 2026 16:07:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 08:09:52 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>XBOW - GPT-5.5: Mythos-Like Hacking, Open To All</title>
+      <link>https://xbow.com/blog/mythos-like-hacking-open-to-all</link>
+      <description>Over the last couple of weeks, we’ve been part of a select group that had early access. We’ve been testing it across our benchmarks and workflows, and we’re sharing what we’ve observed in practice. Here’s our take on 5.5 and how it performed for our offensive security capabilities.</description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://xbow.com/blog/mythos-like-hacking-open-to-all</guid>
+      <enclosure url="https://cdn.prod.website-files.com/686c11d5bee0151a3f8021d6/69ea5cf7b1eb475fbd9a0755_BLOG-GPT-5-5-Mythos-Like-Hacking-Open-To-All-OG-01.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://cdn.prod.website-files.com/686c11d5bee0151a3f8021d6/69ea5cf7b1eb475fbd9a0755_BLOG-GPT-5-5-Mythos-Like-Hacking-Open-To-All-OG-01.jpg" medium="image" />
+    </item>
     <item>
       <title>Production-Grade LLM Inference at Scale with KServe, llm-d, and vLLM</title>
       <link>https://llm-d.ai/blog/production-grade-llm-inference-at-scale-kserve-llm-d-vllm</link>
