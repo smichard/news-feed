@@ -5,9 +5,18 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2026 07:58:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 08:01:20 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This Claude-powered AI agent deleted a company's whole database — and then gloated about it</title>
+      <link>https://tech.yahoo.com/ai/article/this-claude-powered-ai-agent-deleted-a-companys-whole-database--and-then-gloated-about-it-165838948.html</link>
+      <description>An AI agent running on Claude Opus 4.6 deleted a SaaS company's entire production database and backups in just 9 seconds — then acknowledged every safety measure it ignored.</description>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://tech.yahoo.com/ai/article/this-claude-powered-ai-agent-deleted-a-companys-whole-database--and-then-gloated-about-it-165838948.html</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/6edb0e2b828b47e80b83e777892250d19c4449bd0a90c7948163aa336e983353/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-04%2F748642cd-0763-4c17-82f8-9236605466ab" type="image/jpeg" length="0" />
+      <media:content url="https://s.yimg.com/lo/mysterio/api/6edb0e2b828b47e80b83e777892250d19c4449bd0a90c7948163aa336e983353/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-04%2F748642cd-0763-4c17-82f8-9236605466ab" medium="image" />
+    </item>
     <item>
       <title>Red Hat's OpenClaw maintainer just made enterprise Claw deployments a lot safer</title>
       <link>https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/</link>
