@@ -5,9 +5,27 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 May 2026 08:08:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 16:09:25 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploying open source AI agents on OpenShift using OpenClaw</title>
+      <link>https://www.youtube.com/watch?v=PkXXLdZFDTs</link>
+      <description>Learn how to run OpenClaw on Red Hat OpenShift with production-grade security and observability. We cover default-deny network policies for blast radius containment, container-level sandboxing with Op</description>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=PkXXLdZFDTs</guid>
+      <enclosure url="https://i.ytimg.com/vi/PkXXLdZFDTs/maxresdefault.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://i.ytimg.com/vi/PkXXLdZFDTs/maxresdefault.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Red Hat AI and OpenShell: Driving security-enhanced agent execution for enterprise AI</title>
+      <link>https://www.redhat.com/en/blog/red-hat-ai-and-openshell-driving-security-enhanced-agent-execution-for-enterprise-ai?sc_cid=701f2000000txokAAA&amp;utm_source=bambu&amp;utm_medium=organic_social</link>
+      <description>Learn about the 3 modes of agent sandboxing and how Red Hat AI with OpenShell enhances security for AI agents on Red Hat AI. Discover how we validated secure sandboxed execution across various agent frameworks, APIs, and platforms.</description>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.redhat.com/en/blog/red-hat-ai-and-openshell-driving-security-enhanced-agent-execution-for-enterprise-ai?sc_cid=701f2000000txokAAA&amp;utm_source=bambu&amp;utm_medium=organic_social</guid>
+      <enclosure url="https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg" medium="image" />
+    </item>
     <item>
       <title>The Mac mini just became infrastructure</title>
       <link>https://thenewstack.io/mac-mini-agent-infrastructure/</link>
