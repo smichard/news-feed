@@ -5,9 +5,18 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 May 2026 08:07:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 16:07:24 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploying agents with Red Hat AI: The curious case of OpenClaw</title>
+      <link>https://developers.redhat.com/articles/2026/04/14/deploying-agents-red-hat-ai-openclaw#</link>
+      <description>Explore how Red Hat AI simplifies agent deployment with OpenClaw, showcasing model inference, safety guardrails, agent identity, and persistent state. Learn about vLLM, Llama Stack, and Models-as-a-Service (MaaS) options, and discover the benefits of agent identity and zero trust with Kagenti and AuthBridge.</description>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://developers.redhat.com/articles/2026/04/14/deploying-agents-red-hat-ai-openclaw#</guid>
+      <enclosure url="https://developers.redhat.com/sites/default/files/styles/share/public/AgenticAI-general-1920x1080.png?itok=2XKv4F1A" type="image/jpeg" length="0" />
+      <media:content url="https://developers.redhat.com/sites/default/files/styles/share/public/AgenticAI-general-1920x1080.png?itok=2XKv4F1A" medium="image" />
+    </item>
     <item>
       <title>I added these MCP servers to my local LLM stack, and one of them replaces a $249 paid tool</title>
       <link>https://www.xda-developers.com/added-these-mcp-servers-local-llm-stack-one-replaces-paid-tool/</link>
@@ -25,6 +34,15 @@
       <guid isPermaLink="true">https://www.xda-developers.com/tested-tiny-local-llms-for-everyday-work-only-one-impressed-me/</guid>
       <enclosure url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/lfm2-5-1-2b-in-lm-studio-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" type="image/jpeg" length="0" />
       <media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/lfm2-5-1-2b-in-lm-studio-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image" />
+    </item>
+    <item>
+      <title>Operationalizing "Bring Your Own Agent" on Red Hat AI, the OpenClaw edition</title>
+      <link>https://www.redhat.com/en/blog/operationalizing-bring-your-own-agent-red-hat-ai-openclaw-edition?extIdCarryOver=true&amp;sc_cid=RHCTG0180000382526</link>
+      <description>Learn how Red Hat AI operationalizes personal AI assistants like OpenClaw on its platform, providing security, governance, observability, and lifecycle management without wrapping them in a proprietary framework. Discover the benefits of BYOA for your AI operations.</description>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.redhat.com/en/blog/operationalizing-bring-your-own-agent-red-hat-ai-openclaw-edition?extIdCarryOver=true&amp;sc_cid=RHCTG0180000382526</guid>
+      <enclosure url="https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg" medium="image" />
     </item>
     <item>
       <title>Deploying open source AI agents on OpenShift using OpenClaw</title>
