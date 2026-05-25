@@ -5,9 +5,27 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2026 16:08:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 08:07:39 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I added these MCP servers to my local LLM stack, and one of them replaces a $249 paid tool</title>
+      <link>https://www.xda-developers.com/added-these-mcp-servers-local-llm-stack-one-replaces-paid-tool/</link>
+      <description>These MCP servers make my local LLM even better.</description>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.xda-developers.com/added-these-mcp-servers-local-llm-stack-one-replaces-paid-tool/</guid>
+      <enclosure url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/pi-terminal.jpg?w=1600&amp;h=900&amp;fit=crop" type="image/jpeg" length="0" />
+      <media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/pi-terminal.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image" />
+    </item>
+    <item>
+      <title>I tested 3 tiny local LLMs for everyday work, and only one of them impressed me</title>
+      <link>https://www.xda-developers.com/tested-tiny-local-llms-for-everyday-work-only-one-impressed-me/</link>
+      <description>Small but not useless</description>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.xda-developers.com/tested-tiny-local-llms-for-everyday-work-only-one-impressed-me/</guid>
+      <enclosure url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/lfm2-5-1-2b-in-lm-studio-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" type="image/jpeg" length="0" />
+      <media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/lfm2-5-1-2b-in-lm-studio-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image" />
+    </item>
     <item>
       <title>Deploying open source AI agents on OpenShift using OpenClaw</title>
       <link>https://www.youtube.com/watch?v=PkXXLdZFDTs</link>
