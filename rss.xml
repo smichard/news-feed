@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2026 08:07:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 16:08:57 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -16,6 +16,42 @@
       <guid isPermaLink="true">https://andonlabs.com/radio</guid>
       <enclosure url="https://andonlabs.com/andon_fm_og.webp" type="image/jpeg" length="0" />
       <media:content url="https://andonlabs.com/andon_fm_og.webp" medium="image" />
+    </item>
+    <item>
+      <title>Centralized routing for external and self-hosted LLMs on OpenShift AI</title>
+      <link>https://developers.redhat.com/articles/2026/05/25/route-external-and-local-llms-models-as-a-service?source=sso#</link>
+      <description>Discover how Red Hat OpenShift AI 3.4's Models-as-a-Service (MaaS) capability streamlines AI inference by acting as an integrated AI gateway within the platform, providing centralized governance and routing requests to both self-hosted models and external providers.</description>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://developers.redhat.com/articles/2026/05/25/route-external-and-local-llms-models-as-a-service?source=sso#</guid>
+      <enclosure url="https://developers.redhat.com/sites/default/files/styles/share/public/Red%20Hat%20OpenShift%20AI_0.png?itok=C9XlhkOQ" type="image/jpeg" length="0" />
+      <media:content url="https://developers.redhat.com/sites/default/files/styles/share/public/Red%20Hat%20OpenShift%20AI_0.png?itok=C9XlhkOQ" medium="image" />
+    </item>
+    <item>
+      <title>From Llama Stack to OGX: A New Name, A Sharper Mission</title>
+      <link>https://ogx-ai.github.io/blog/from-llama-stack-to-ogx</link>
+      <description>Llama Stack is now OGX. The name changed, but more importantly, so did the mission.</description>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ogx-ai.github.io/blog/from-llama-stack-to-ogx</guid>
+      <enclosure url="https://ogx-ai.github.io/img/ogx.png" type="image/jpeg" length="0" />
+      <media:content url="https://ogx-ai.github.io/img/ogx.png" medium="image" />
+    </item>
+    <item>
+      <title>From Open Source Software to Open Source Strategy</title>
+      <link>https://p3institute.substack.com/p/from-open-source-software-to-open</link>
+      <description>How the Smartest Executives Are Using Open Source Techniques to Optimize Corporate Strategy</description>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://p3institute.substack.com/p/from-open-source-software-to-open</guid>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!kfP-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7243034d-1e04-448c-ac96-d17e8b484dc8_828x828.png" type="image/jpeg" length="0" />
+      <media:content url="https://substackcdn.com/image/fetch/$s_!kfP-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7243034d-1e04-448c-ac96-d17e8b484dc8_828x828.png" medium="image" />
+    </item>
+    <item>
+      <title>Scaling enterprise AI: Delivering Models-as-a-Service with Red Hat OpenShift AI 3.4</title>
+      <link>https://www.redhat.com/en/blog/scaling-enterprise-ai-delivering-models-service-openshift-ai-34</link>
+      <description>Discover how Red Hat OpenShift AI 3.4 and Red Hat Connectivity Link deliver Models-as-a-Service (MaaS) to centrally govern, secure, and scale enterprise AI model serving.</description>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.redhat.com/en/blog/scaling-enterprise-ai-delivering-models-service-openshift-ai-34</guid>
+      <enclosure url="https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg" medium="image" />
     </item>
     <item>
       <title>A One-Stop Shop for A.I. Models Raises $113 Million</title>
