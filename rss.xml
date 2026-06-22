@@ -5,9 +5,18 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2026 08:10:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 16:07:54 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Surpassing Frontier Performance with Fusion</title>
+      <link>https://openrouter.ai/blog/announcements/fusion-beats-frontier/?utm_source=www.humanintheloop.online&amp;utm_medium=newsletter&amp;utm_campaign=the-highest-leverage-upgrades-you-can-make-to-your-ai&amp;_bhlid=7e3bc5e50ef3bc6a006cfdccef324d10eb8b78d4</link>
+      <description>A panel of budget models, fused through OpenRouter, outscored GPT-5.5 and Claude Opus 4.8 on 100 complex research tasks.</description>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://openrouter.ai/blog/announcements/fusion-beats-frontier/?utm_source=www.humanintheloop.online&amp;utm_medium=newsletter&amp;utm_campaign=the-highest-leverage-upgrades-you-can-make-to-your-ai&amp;_bhlid=7e3bc5e50ef3bc6a006cfdccef324d10eb8b78d4</guid>
+      <enclosure url="https://openrouter.ai/images/blog/fusion-benchmark.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://openrouter.ai/images/blog/fusion-benchmark.jpg" medium="image" />
+    </item>
     <item>
       <title>Every layer counts: Defense in depth for AI agents with Red Hat AI</title>
       <link>https://developers.redhat.com/articles/2026/05/14/every-layer-counts-defense-depth-ai-agents-red-hat-ai#</link>
