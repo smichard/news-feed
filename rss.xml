@@ -5,9 +5,27 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2026 08:07:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 16:08:18 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A New Era of Midjourney</title>
+      <link>https://www.midjourney.com/medical/blogpost?utm_source=www.humanintheloop.online&amp;utm_medium=newsletter&amp;utm_campaign=5-claude-code-settings-you-need-to-fix-today&amp;_bhlid=9d67e8a3da23e3855f2ba6402a9620399b4ddacf</link>
+      <description>Announcing Midjourney Medical: full-body Ultrasonic CT imaging and the Midjourney Spa, a 60-second whole-body scan as casual as a trip to the spa.</description>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.midjourney.com/medical/blogpost?utm_source=www.humanintheloop.online&amp;utm_medium=newsletter&amp;utm_campaign=5-claude-code-settings-you-need-to-fix-today&amp;_bhlid=9d67e8a3da23e3855f2ba6402a9620399b4ddacf</guid>
+      <enclosure url="https://cdn.midjourney.com/static/medical/media/posters/cinematic_video-646940207fc28381-2.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://cdn.midjourney.com/static/medical/media/posters/cinematic_video-646940207fc28381-2.jpg" medium="image" />
+    </item>
+    <item>
+      <title>OpenAI follows Anthropic into the channel</title>
+      <link>https://www.channeldive.com/news/openai-partner-network-enterprise-ai-adoption/822958/?utm_source=www.humanintheloop.online&amp;utm_medium=newsletter&amp;utm_campaign=5-claude-code-settings-you-need-to-fix-today&amp;_bhlid=ffd70e37394e57b63d905044caab17e9191595ca</link>
+      <description>The GPT model maker plans to invest $150 million in partner development just three months after the Claude Partner Network launched.</description>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.channeldive.com/news/openai-partner-network-enterprise-ai-adoption/822958/?utm_source=www.humanintheloop.online&amp;utm_medium=newsletter&amp;utm_campaign=5-claude-code-settings-you-need-to-fix-today&amp;_bhlid=ffd70e37394e57b63d905044caab17e9191595ca</guid>
+      <enclosure url="https://imgproxy.divecdn.com/jDgGUVbvKyJ-_0reTHgc48GTEmEw1smPfoAReH9eZlg/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc3MzE5ODkwLmpwZw==.webp" type="image/jpeg" length="0" />
+      <media:content url="https://imgproxy.divecdn.com/jDgGUVbvKyJ-_0reTHgc48GTEmEw1smPfoAReH9eZlg/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc3MzE5ODkwLmpwZw==.webp" medium="image" />
+    </item>
     <item>
       <title>Surpassing Frontier Performance with Fusion</title>
       <link>https://openrouter.ai/blog/announcements/fusion-beats-frontier/?utm_source=www.humanintheloop.online&amp;utm_medium=newsletter&amp;utm_campaign=the-highest-leverage-upgrades-you-can-make-to-your-ai&amp;_bhlid=7e3bc5e50ef3bc6a006cfdccef324d10eb8b78d4</link>
