@@ -5,9 +5,18 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2026 16:08:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 08:18:10 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenClaw and Hermes agree on what an agent is. They disagree on what controls it.</title>
+      <link>https://thenewstack.io/openclaw-hermes-agent-harness/</link>
+      <description>Agent harnesses turn AI models into autonomous systems. OpenClaw bets on broad gateways while Hermes bets on memory — and platform vendors want both.</description>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://thenewstack.io/openclaw-hermes-agent-harness/</guid>
+      <enclosure url="https://cdn.thenewstack.io/media/2026/06/9228c0d6-logan-voss-v0sixwyivly-unsplash-scaled.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://cdn.thenewstack.io/media/2026/06/9228c0d6-logan-voss-v0sixwyivly-unsplash-scaled.jpg" medium="image" />
+    </item>
     <item>
       <title>A New Era of Midjourney</title>
       <link>https://www.midjourney.com/medical/blogpost?utm_source=www.humanintheloop.online&amp;utm_medium=newsletter&amp;utm_campaign=5-claude-code-settings-you-need-to-fix-today&amp;_bhlid=9d67e8a3da23e3855f2ba6402a9620399b4ddacf</link>
