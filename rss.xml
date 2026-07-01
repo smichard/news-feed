@@ -5,9 +5,18 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2026 16:08:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 08:07:50 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scale document ingestion with Docling and Ray on OpenShift AI</title>
+      <link>https://developers.redhat.com/articles/2026/06/30/scale-document-ingestion-docling-and-ray-openshift-ai#get_started</link>
+      <description>Learn how to scale document processing with a guided example that combines Docling for structure-aware parsing, Ray Data for distributed streaming execution, and Red Hat OpenShift AI.</description>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://developers.redhat.com/articles/2026/06/30/scale-document-ingestion-docling-and-ray-openshift-ai#get_started</guid>
+      <enclosure url="https://developers.redhat.com/sites/default/files/styles/share/public/Red%20Hat%20OpenShift%20AI_0.png?itok=C9XlhkOQ" type="image/jpeg" length="0" />
+      <media:content url="https://developers.redhat.com/sites/default/files/styles/share/public/Red%20Hat%20OpenShift%20AI_0.png?itok=C9XlhkOQ" medium="image" />
+    </item>
     <item>
       <title>IBM Debuts World’s First Sub-1 Nanometer Chip Technology</title>
       <link>https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology</link>
