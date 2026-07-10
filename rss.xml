@@ -5,9 +5,18 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2026 08:08:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 16:09:14 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redeploying Claude Fable 5</title>
+      <link>https://www.anthropic.com/news/redeploying-fable-5?utm_source=www.humanintheloop.online&amp;utm_medium=newsletter&amp;utm_campaign=i-quit-ibm-here-s-what-8-years-of-ai-taught-me&amp;_bhlid=18b8bbdf1163e89a17c22bd03f4c285254d6ce1a</link>
+      <description>Anthropic is redeploying Claude Fable 5 starting July 1 following the lifting of export controls, with updated cybersecurity safeguards and a new industry jailbreak framework.</description>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.anthropic.com/news/redeploying-fable-5?utm_source=www.humanintheloop.online&amp;utm_medium=newsletter&amp;utm_campaign=i-quit-ibm-here-s-what-8-years-of-ai-taught-me&amp;_bhlid=18b8bbdf1163e89a17c22bd03f4c285254d6ce1a</guid>
+      <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" medium="image" />
+    </item>
     <item>
       <title>Scale document ingestion with Docling and Ray on OpenShift AI</title>
       <link>https://developers.redhat.com/articles/2026/06/30/scale-document-ingestion-docling-and-ray-openshift-ai#get_started</link>
