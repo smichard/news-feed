@@ -5,9 +5,18 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jul 2026 08:07:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 16:08:35 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inkling: Our open-weights model</title>
+      <link>https://thinkingmachines.ai/news/introducing-inkling/</link>
+      <description>Our first open-weights model: multimodal, Mixture-of-Experts, with controllable reasoning effort. Available to fine-tune on Tinker.</description>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://thinkingmachines.ai/news/introducing-inkling/</guid>
+      <enclosure url="https://thinkingmachines.ai/news/introducing-inkling/images/cover-social-inkling-post.png" type="image/jpeg" length="0" />
+      <media:content url="https://thinkingmachines.ai/news/introducing-inkling/images/cover-social-inkling-post.png" medium="image" />
+    </item>
     <item>
       <title>Redeploying Claude Fable 5</title>
       <link>https://www.anthropic.com/news/redeploying-fable-5?utm_source=www.humanintheloop.online&amp;utm_medium=newsletter&amp;utm_campaign=i-quit-ibm-here-s-what-8-years-of-ai-taught-me&amp;_bhlid=18b8bbdf1163e89a17c22bd03f4c285254d6ce1a</link>
