@@ -5,9 +5,18 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2026 08:07:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 16:07:33 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Don't Ship Skills Without Evals — Philipp Schmid, Google DeepMind</title>
+      <link>https://www.youtube.com/watch?v=0vphxNt4wyk</link>
+      <description>There are thousands of agent skills. Almost none of them are tested. They get vibe-checked with two manual runs, maybe a thumbs-up from a colleague, then shipped. You wouldn't merge code without tests</description>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=0vphxNt4wyk</guid>
+      <enclosure url="https://i.ytimg.com/vi/0vphxNt4wyk/maxresdefault.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://i.ytimg.com/vi/0vphxNt4wyk/maxresdefault.jpg" medium="image" />
+    </item>
     <item>
       <title>Inkling: Our open-weights model</title>
       <link>https://thinkingmachines.ai/news/introducing-inkling/</link>
