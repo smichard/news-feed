@@ -5,9 +5,18 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 08:07:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 16:07:58 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Computer is Available to All Mac Users</title>
+      <link>https://www.perplexity.ai/hub/blog/personal-computer-is-available-to-all-mac-users</link>
+      <description>Perplexity ist eine kostenlose, KI-gestützte Antwortmaschine, die präzise, verlässliche Antworten in Echtzeit auf jede Frage liefert.</description>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/personal-computer-is-available-to-all-mac-users</guid>
+      <enclosure url="https://frontend-cdn.perplexity.ai/_agi_assets/marketing/hub/hub-og-image.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://frontend-cdn.perplexity.ai/_agi_assets/marketing/hub/hub-og-image.jpg" medium="image" />
+    </item>
     <item>
       <title>Dieser Skill hat meine Arbeit mit Claude Code verändert</title>
       <link>https://www.youtube.com/watch?v=hsZFm-ywrBg</link>
