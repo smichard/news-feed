@@ -5,9 +5,27 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 08:07:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 16:07:35 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Origin Code Hosting</title>
+      <link>https://cursor.com/de/changelog/origin-code-hosting?utm_source=www.humanintheloop.online&amp;utm_medium=newsletter&amp;utm_campaign=how-to-turn-a-recurring-task-into-a-shared-team-skill&amp;_bhlid=7e56aa7908d4f6907f7827870a5e6a6704032cb4</link>
+      <description>Cursor is the best AI coding agent.</description>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://cursor.com/de/changelog/origin-code-hosting?utm_source=www.humanintheloop.online&amp;utm_medium=newsletter&amp;utm_campaign=how-to-turn-a-recurring-task-into-a-shared-team-skill&amp;_bhlid=7e56aa7908d4f6907f7827870a5e6a6704032cb4</guid>
+      <enclosure url="https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/og-origin-code-hosting-08-17-26-iibBEcxTigpnjXaBULY8Du327sx4P1.png" type="image/jpeg" length="0" />
+      <media:content url="https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/og-origin-code-hosting-08-17-26-iibBEcxTigpnjXaBULY8Du327sx4P1.png" medium="image" />
+    </item>
+    <item>
+      <title>Stripe buys AI model router OpenRouter in reported $7.5B deal</title>
+      <link>https://siliconangle.com/2026/08/19/stripe-buys-ai-model-router-openrouter-in-reported-7-5b-deal/</link>
+      <description>Stripe buys AI model router OpenRouter in reported $7.5B deal - SiliconANGLE</description>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://siliconangle.com/2026/08/19/stripe-buys-ai-model-router-openrouter-in-reported-7-5b-deal/</guid>
+      <enclosure url="https://images.siliconangle.com/blogs.dir/1/files/2026/08/openrouter1-800x447.png" type="image/jpeg" length="0" />
+      <media:content url="https://images.siliconangle.com/blogs.dir/1/files/2026/08/openrouter1-800x447.png" medium="image" />
+    </item>
     <item>
       <title>Personal Computer is Available to All Mac Users</title>
       <link>https://www.perplexity.ai/hub/blog/personal-computer-is-available-to-all-mac-users</link>
