@@ -5,9 +5,45 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2026 08:07:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 16:15:38 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Centralized routing for external and self-hosted LLMs on OpenShift AI</title>
+      <link>https://developers.redhat.com/articles/2026/05/25/route-external-and-local-llms-models-as-a-service?sc_cid=701f2000000txokAAA&amp;utm_source=bambu&amp;utm_medium=organic_social#deploy_the_self_hosted_model_on_openshift_ai</link>
+      <description>Discover how Red Hat OpenShift AI 3.4's Models-as-a-Service (MaaS) capability streamlines AI inference by acting as an integrated AI gateway within the platform, providing centralized governance and routing requests to both self-hosted models and external providers.</description>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://developers.redhat.com/articles/2026/05/25/route-external-and-local-llms-models-as-a-service?sc_cid=701f2000000txokAAA&amp;utm_source=bambu&amp;utm_medium=organic_social#deploy_the_self_hosted_model_on_openshift_ai</guid>
+      <enclosure url="https://developers.redhat.com/sites/default/files/styles/share/public/Red%20Hat%20OpenShift%20AI_0.png?itok=C9XlhkOQ" type="image/jpeg" length="0" />
+      <media:content url="https://developers.redhat.com/sites/default/files/styles/share/public/Red%20Hat%20OpenShift%20AI_0.png?itok=C9XlhkOQ" medium="image" />
+    </item>
+    <item>
+      <title>Introducing Muse Glimmer: An Open Agentic Model That Runs on Your Device</title>
+      <link>https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model</link>
+      <description>Muse Glimmer is a 30-billion-parameter open agentic model from Meta Superintelligence Labs, optimized for always-on local workflows on consumer hardware.</description>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model</guid>
+      <enclosure url="https://lookaside.fbsbx.com/elementpath/media/?media_id=2272911630133843&amp;version=1786289182" type="image/jpeg" length="0" />
+      <media:content url="https://lookaside.fbsbx.com/elementpath/media/?media_id=2272911630133843&amp;version=1786289182" medium="image" />
+    </item>
+    <item>
+      <title>Nvidia reportedly eyes another investment in Perplexity AI at a $30B valuation</title>
+      <link>https://siliconangle.com/2026/08/24/nvidia-reportedly-eyes-another-investment-in-perplexity-ai-at-a-30b-valuation/</link>
+      <description>Nvidia reportedly eyes another investment in Perplexity AI at a $30B valuation - SiliconANGLE</description>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://siliconangle.com/2026/08/24/nvidia-reportedly-eyes-another-investment-in-perplexity-ai-at-a-30b-valuation/</guid>
+      <enclosure url="https://images.siliconangle.com/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-25-06-37-38.png" type="image/jpeg" length="0" />
+      <media:content url="https://images.siliconangle.com/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-25-06-37-38.png" medium="image" />
+    </item>
+    <item>
+      <title>The 2026-07-28 MCP Specification Release Candidate</title>
+      <link>https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/</link>
+      <description>The release candidate for the next Model Context Protocol (MCP) specification is now available: a stateless protocol core, the Extensions framework, Tasks, MCP Apps, authorization hardening, and a formal deprecation policy.</description>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/</guid>
+      <enclosure url="https://blog.modelcontextprotocol.io/og-image.png" type="image/jpeg" length="0" />
+      <media:content url="https://blog.modelcontextprotocol.io/og-image.png" medium="image" />
+    </item>
     <item>
       <title>Origin Code Hosting</title>
       <link>https://cursor.com/de/changelog/origin-code-hosting?utm_source=www.humanintheloop.online&amp;utm_medium=newsletter&amp;utm_campaign=how-to-turn-a-recurring-task-into-a-shared-team-skill&amp;_bhlid=7e56aa7908d4f6907f7827870a5e6a6704032cb4</link>
