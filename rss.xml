@@ -5,9 +5,18 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 08:10:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 16:08:43 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident</title>
+      <link>https://www.youtube.com/watch?v=87DyyMV0kCY</link>
+      <description>The 'Breaking' News: The OpenAI–Hugging Face Incident - A Technical Reconstruction and Its Implications for AIWhen AI Goes Rogue. The Incident That Changed Everything. An OpenAI evaluation agent bro</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=87DyyMV0kCY</guid>
+      <enclosure url="https://i.ytimg.com/vi/87DyyMV0kCY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFQgZShOMA8=&amp;rs=AOn4CLAhDFXqcmgt8gNoduYyb15D4HJBNw" type="image/jpeg" length="0" />
+      <media:content url="https://i.ytimg.com/vi/87DyyMV0kCY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFQgZShOMA8=&amp;rs=AOn4CLAhDFXqcmgt8gNoduYyb15D4HJBNw" medium="image" />
+    </item>
     <item>
       <title>Nvidia agrees to buy Hugging Face for US$12.9 billion: Report</title>
       <link>https://www.channelnewsasia.com/business/nvidia-hugging-face-buy-us129-billion-6343911</link>
@@ -16,6 +25,15 @@
       <guid isPermaLink="true">https://www.channelnewsasia.com/business/nvidia-hugging-face-buy-us129-billion-6343911</guid>
       <enclosure url="https://dam.mediacorp.sg/image/upload/s--h-8NPpqn--/c_crop,h_449,w_799,x_1,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-27T005217Z_1_LYNXMPEM7Q01K_RTROPTP_3_NVIDIA-JAPAN.JPG?itok=u8mjYonY" type="image/jpeg" length="0" />
       <media:content url="https://dam.mediacorp.sg/image/upload/s--h-8NPpqn--/c_crop,h_449,w_799,x_1,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-27T005217Z_1_LYNXMPEM7Q01K_RTROPTP_3_NVIDIA-JAPAN.JPG?itok=u8mjYonY" medium="image" />
+    </item>
+    <item>
+      <title>llm-d flow control: Priority queuing for shared GPU inference</title>
+      <link>https://developers.redhat.com/articles/2026/08/27/llm-d-flow-control-priority-queuing-for-shared-gpu-inference#</link>
+      <description>Learn how to prioritize mixed workloads with Red Hat AI Inference 3.5's GPU-shared flow control</description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://developers.redhat.com/articles/2026/08/27/llm-d-flow-control-priority-queuing-for-shared-gpu-inference#</guid>
+      <enclosure url="https://developers.redhat.com/sites/default/files/styles/share/public/Red%20Hat%20AI%20Inference%20Server.png?itok=Ke7xK0mM" type="image/jpeg" length="0" />
+      <media:content url="https://developers.redhat.com/sites/default/files/styles/share/public/Red%20Hat%20AI%20Inference%20Server.png?itok=Ke7xK0mM" medium="image" />
     </item>
     <item>
       <title>Centralized routing for external and self-hosted LLMs on OpenShift AI</title>
