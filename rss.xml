@@ -5,9 +5,18 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 16:13:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 08:08:03 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GPT-6 Astra: A new generation of intelligence</title>
+      <link>https://openai.com/index/gpt-6-astra/</link>
+      <description>Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.</description>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://openai.com/index/gpt-6-astra/</guid>
+      <enclosure url="https://images.ctfassets.net/kftzwdyauwt9/6ibCaqsoO7F6XCNCIO8zaZ/9475cdebc1f0af100414f1c85860fc4c/Hero_16x9.png?w=1600&amp;h=900&amp;fit=fill" type="image/jpeg" length="0" />
+      <media:content url="https://images.ctfassets.net/kftzwdyauwt9/6ibCaqsoO7F6XCNCIO8zaZ/9475cdebc1f0af100414f1c85860fc4c/Hero_16x9.png?w=1600&amp;h=900&amp;fit=fill" medium="image" />
+    </item>
     <item>
       <title>Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident</title>
       <link>https://www.youtube.com/watch?v=87DyyMV0kCY</link>
