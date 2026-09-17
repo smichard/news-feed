@@ -5,9 +5,27 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 16:08:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 08:07:46 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple May Return to Server Market With Nvidia Technology</title>
+      <link>https://www.macrumors.com/2026/09/16/apple-may-return-to-server-market/</link>
+      <description>Apple is considering offering an AI server built around "M8" series chips and has discussed incorporating Nvidia networking hardware, The Information reports.</description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/09/16/apple-may-return-to-server-market/</guid>
+      <enclosure url="https://images.macrumors.com/t/0StSfKuu6hA5pouO6BNP_9R01xw=/1672x/article-new/2026/08/apple-silicon-gray.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://images.macrumors.com/t/0StSfKuu6hA5pouO6BNP_9R01xw=/1672x/article-new/2026/08/apple-silicon-gray.jpg" medium="image" />
+    </item>
+    <item>
+      <title>How we trained the fastest DSpark for Kimi-K3 using GB300 NVL72</title>
+      <link>https://vllm.ai/blog/2026-09-15-kimi-k3-dspark</link>
+      <description>How Speculators and Mooncake enabled multi-node DSpark training for Kimi K3.</description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://vllm.ai/blog/2026-09-15-kimi-k3-dspark</guid>
+      <enclosure url="https://vllm.ai/blog-assets/figures/2026-09-15-kimi-k3-dspark/throughput-vs-interactivity.png" type="image/jpeg" length="0" />
+      <media:content url="https://vllm.ai/blog-assets/figures/2026-09-15-kimi-k3-dspark/throughput-vs-interactivity.png" medium="image" />
+    </item>
     <item>
       <title>Introducing Muse: The World’s First Personal AI Agent Built for Everyone</title>
       <link>https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/?utm_source=www.humanintheloop.online&amp;utm_medium=newsletter&amp;utm_campaign=ai-s-biggest-labs-want-rules-who-benefits&amp;_bhlid=5ab4f73b9e7a240af5e8d4713c516d5f2ea15bd2</link>
