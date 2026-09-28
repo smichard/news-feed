@@ -5,9 +5,27 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2026 08:07:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 16:07:34 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Laya — 33ms Multilingual System 1 Decision Engine</title>
+      <link>https://laya.convaiinnovations.com/</link>
+      <description>Non-autoregressive decision model over 100+ languages in a single forward pass (~33ms on GPU). Built with RLCD and proper scoring rules by Convai Innovations.</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://laya.convaiinnovations.com/</guid>
+      <enclosure url="https://laya-ai.vercel.app/laya_vs_jev_full.png" type="image/jpeg" length="0" />
+      <media:content url="https://laya-ai.vercel.app/laya_vs_jev_full.png" medium="image" />
+    </item>
+    <item>
+      <title>Run decision models on vLLM and Red Hat AI using DiffusionGemma</title>
+      <link>https://developers.redhat.com/articles/2026/09/28/run-decision-model-vllm-and-red-hat-ai#running_decision_models_on_red_hat_ai_and_red_hat_ai_inference</link>
+      <description>Implement structured decision reads with DiffusionGemma on Red Hat AI to achieve low-latency, self-hosted AI for regulated industries.</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://developers.redhat.com/articles/2026/09/28/run-decision-model-vllm-and-red-hat-ai#running_decision_models_on_red_hat_ai_and_red_hat_ai_inference</guid>
+      <enclosure url="https://developers.redhat.com/sites/default/files/styles/share/public/Red-Hat-AI.png?itok=QCWQOeIo" type="image/jpeg" length="0" />
+      <media:content url="https://developers.redhat.com/sites/default/files/styles/share/public/Red-Hat-AI.png?itok=QCWQOeIo" medium="image" />
+    </item>
     <item>
       <title>Agents: The new, New Kingmakers</title>
       <link>https://redmonk.com/sogrady/2026/09/16/new-new-kingmakers/</link>
