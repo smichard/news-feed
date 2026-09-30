@@ -5,9 +5,27 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 08:07:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:10:34 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jensen Huang: NVIDIA's New Breakthrough For Safe AI | CNBC Full Interview</title>
+      <link>https://www.youtube.com/watch?app=desktop&amp;v=nnwIi6547DU&amp;ra=m</link>
+      <description>NVIDIA CEO Jensen Huang shares critical insights on the future of autonomous artificial intelligence and why safety is fundamentally an engineering challenge...</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?app=desktop&amp;v=nnwIi6547DU&amp;ra=m</guid>
+      <enclosure url="https://i.ytimg.com/vi/nnwIi6547DU/maxresdefault.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://i.ytimg.com/vi/nnwIi6547DU/maxresdefault.jpg" medium="image" />
+    </item>
+    <item>
+      <title>OpenClaw Enterprise - The Open Agent Platform</title>
+      <link>https://openclaw.ai/blog/openclaw-enterprise</link>
+      <description>An open source, vendor neutral platform for managing persistent agents in sensitive environments.</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://openclaw.ai/blog/openclaw-enterprise</guid>
+      <enclosure url="https://openclaw.ai/blog/openclaw-enterprise/social.png" type="image/jpeg" length="0" />
+      <media:content url="https://openclaw.ai/blog/openclaw-enterprise/social.png" medium="image" />
+    </item>
     <item>
       <title>Wir stellen GPT-6.1 Sol vor</title>
       <link>https://openai.com/de-DE/index/introducing-gpt-6-1-sol/</link>
