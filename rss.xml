@@ -5,9 +5,18 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 16:13:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 08:17:31 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Securing AI agents requires securing the systems around them</title>
+      <link>https://www.redhat.com/en/blog/securing-ai-agents-requires-securing-systems-around-them</link>
+      <description>As agents receive more authority, the controls surrounding that authority become increasingly important. Chris Wright explains how Red Hat is working with NVIDIA and others to help enterprises secure AI agents.</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.redhat.com/en/blog/securing-ai-agents-requires-securing-systems-around-them</guid>
+      <enclosure url="https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg" medium="image" />
+    </item>
     <item>
       <title>Why Red Hat is building an open foundation for enterprise agents with OpenClaw Enterprise</title>
       <link>https://www.redhat.com/en/blog/why-red-hat-building-open-foundation-enterprise-agents-openclaw-enterprise</link>
