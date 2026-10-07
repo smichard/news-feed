@@ -5,9 +5,27 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 08:11:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 16:09:08 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Release v0.28.0</title>
+      <link>https://github.com/beadbox/beadbox/releases/tag/v0.28.0</link>
+      <description>Native macOS, Windows and Linux GUI for the beads git-backed issue tracker. Built with Tauri, Next.js, and React. - Release v0.28.0 · beadbox/beadbox</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://github.com/beadbox/beadbox/releases/tag/v0.28.0</guid>
+      <enclosure url="https://opengraph.githubassets.com/a30d6600443bf313d26363d5309c7f4286ae7413277ca56be480b5aaea3293d4/beadbox/beadbox/releases/tag/v0.28.0" type="image/jpeg" length="0" />
+      <media:content url="https://opengraph.githubassets.com/a30d6600443bf313d26363d5309c7f4286ae7413277ca56be480b5aaea3293d4/beadbox/beadbox/releases/tag/v0.28.0" medium="image" />
+    </item>
+    <item>
+      <title>Stack Overflow Developer Survey 2026</title>
+      <link>https://survey.stackoverflow.co/2026?lid=ygol0r1ztb33</link>
+      <description>More than 30K technologists from 169 countries have shared their thoughts with us, and now it’s time to share everything we’ve learned with you. So let’s dive into this year’s Annual Developer Survey.</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://survey.stackoverflow.co/2026?lid=ygol0r1ztb33</guid>
+      <enclosure url="https://survey.stackoverflow.co/stack-overflow-dev-survey-open-graph.png" type="image/jpeg" length="0" />
+      <media:content url="https://survey.stackoverflow.co/stack-overflow-dev-survey-open-graph.png" medium="image" />
+    </item>
     <item>
       <title>Securing AI agents requires securing the systems around them</title>
       <link>https://www.redhat.com/en/blog/securing-ai-agents-requires-securing-systems-around-them</link>
