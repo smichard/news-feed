@@ -5,9 +5,18 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 08:11:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 16:22:00 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nvidia VP Says AI Costs ‘Far’ More Than Human Employees</title>
+      <link>https://www.entrepreneur.com/business-news/nvidia-vp-says-it-costs-more-to-use-ai-than-to-hire-humans</link>
+      <description>AI isn’t reducing labor costs at Nvidia. Right now, the technology is more expensive than the human workers the company already has.</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.entrepreneur.com/business-news/nvidia-vp-says-it-costs-more-to-use-ai-than-to-hire-humans</guid>
+      <enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/04/Bryan-GettyImages-2270143685.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/04/Bryan-GettyImages-2270143685.jpg" medium="image" />
+    </item>
     <item>
       <title>Introducing Claude Haiku 5.5</title>
       <link>https://www.anthropic.com/claude-haiku-5-5</link>
