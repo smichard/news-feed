@@ -5,9 +5,45 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 08:07:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 16:09:09 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build live dashboards and animate explainers with Claude</title>
+      <link>https://claude.com/de/resources/articles/dashboards-and-motion?utm_source=www.humanintheloop.online&amp;utm_medium=newsletter&amp;utm_campaign=you-re-not-bad-at-ai&amp;_bhlid=91a92535d690ddc7f37616a133586e46547c9ff4</link>
+      <description>Starting today, Claude Dashboards and Claude Motion are in beta. Docs, Slides, and Design are out of beta and on every Claude plan, including Free.</description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://claude.com/de/resources/articles/dashboards-and-motion?utm_source=www.humanintheloop.online&amp;utm_medium=newsletter&amp;utm_campaign=you-re-not-bad-at-ai&amp;_bhlid=91a92535d690ddc7f37616a133586e46547c9ff4</guid>
+      <enclosure url="https://claude.com/de/resources/articles/dashboards-and-motion/opengraph-image/og" type="image/jpeg" length="0" />
+      <media:content url="https://claude.com/de/resources/articles/dashboards-and-motion/opengraph-image/og" medium="image" />
+    </item>
+    <item>
+      <title>Introducing Mistral Large 4</title>
+      <link>https://mistral.ai/news/mistral-large-4/?utm_source=www.humanintheloop.online&amp;utm_medium=newsletter&amp;utm_campaign=you-re-not-bad-at-ai&amp;_bhlid=8b677319f3a513a5a61d984c581eef6f73ce0b86</link>
+      <description>The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models.</description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://mistral.ai/news/mistral-large-4/?utm_source=www.humanintheloop.online&amp;utm_medium=newsletter&amp;utm_campaign=you-re-not-bad-at-ai&amp;_bhlid=8b677319f3a513a5a61d984c581eef6f73ce0b86</guid>
+      <enclosure url="https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp" type="image/jpeg" length="0" />
+      <media:content url="https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp" medium="image" />
+    </item>
+    <item>
+      <title>OpenCode 2.0</title>
+      <link>https://anoma.ly/notes/opencode-2-0/</link>
+      <description>OpenCode 2.0.</description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://anoma.ly/notes/opencode-2-0/</guid>
+      <enclosure url="https://anoma.ly/notes/og/opencode-2-0.png" type="image/jpeg" length="0" />
+      <media:content url="https://anoma.ly/notes/og/opencode-2-0.png" medium="image" />
+    </item>
+    <item>
+      <title>The /llms.txt file, v2</title>
+      <link>https://llmstxt.org/</link>
+      <description>A proposal to standardise on using an /llms.txt file to provide information to help agents use a website.</description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://llmstxt.org/</guid>
+      <enclosure url="https://llmstxt.org//sample.png" type="image/jpeg" length="0" />
+      <media:content url="https://llmstxt.org//sample.png" medium="image" />
+    </item>
     <item>
       <title>Nvidia VP Says AI Costs ‘Far’ More Than Human Employees</title>
       <link>https://www.entrepreneur.com/business-news/nvidia-vp-says-it-costs-more-to-use-ai-than-to-hire-humans</link>
