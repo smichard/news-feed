@@ -5,9 +5,36 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 08:06:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:06:36 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Filtering and reducing AI agent telemetry with the OpenTelemetry Collector</title>
+      <link>https://www.cncf.io/blog/2026/10/22/filtering-and-reducing-ai-agent-telemetry-with-the-opentelemetry-collector/</link>
+      <description>Turn on an AI coding agent’s telemetry and it throws a wall of text at you. It’s expensive to store and what’s worse, you can’t make sense of it.</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.cncf.io/blog/2026/10/22/filtering-and-reducing-ai-agent-telemetry-with-the-opentelemetry-collector/</guid>
+      <enclosure url="https://www.cncf.io/wp-content/uploads/2026/10/Filtering-and-reducing-AI-agent-telemetry-with-the-OpenTelemetry-Collector.png" type="image/jpeg" length="0" />
+      <media:content url="https://www.cncf.io/wp-content/uploads/2026/10/Filtering-and-reducing-AI-agent-telemetry-with-the-OpenTelemetry-Collector.png" medium="image" />
+    </item>
+    <item>
+      <title>How AI workloads are reshaping Kubernetes autoscaling</title>
+      <link>https://www.cncf.io/blog/2026/10/19/how-ai-workloads-are-reshaping-kubernetes-autoscaling/</link>
+      <description>Kubernetes has quietly run much of the world’s containerized software on a division of labor between two control loops that rarely had to talk to each other.</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.cncf.io/blog/2026/10/19/how-ai-workloads-are-reshaping-kubernetes-autoscaling/</guid>
+      <enclosure url="https://www.cncf.io/wp-content/uploads/2026/10/Blog-Default-50.png" type="image/jpeg" length="0" />
+      <media:content url="https://www.cncf.io/wp-content/uploads/2026/10/Blog-Default-50.png" medium="image" />
+    </item>
+    <item>
+      <title>Introducing Claude Duet</title>
+      <link>https://claude.com/resources/articles/claude-duet</link>
+      <description>Claude Duet is a new app where Claude works as a proactive agent. The research preview opens by waitlist today for Pro and Max subscribers in the US.</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://claude.com/resources/articles/claude-duet</guid>
+      <enclosure url="https://claude.com/resources/articles/claude-duet/opengraph-image/og" type="image/jpeg" length="0" />
+      <media:content url="https://claude.com/resources/articles/claude-duet/opengraph-image/og" medium="image" />
+    </item>
     <item>
       <title>LiteLLM supply chain attack hoovers up passwords and secrets</title>
       <link>https://www.theregister.com/security/2026/10/21/litellm-supply-chain-attack-hoovers-up-passwords-and-secrets/5304548</link>
