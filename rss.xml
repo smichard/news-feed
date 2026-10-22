@@ -5,9 +5,18 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 16:06:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 08:06:34 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LiteLLM supply chain attack hoovers up passwords and secrets</title>
+      <link>https://www.theregister.com/security/2026/10/21/litellm-supply-chain-attack-hoovers-up-passwords-and-secrets/5304548</link>
+      <description>Plus a RAT for good measure - get threat hunting now</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.theregister.com/security/2026/10/21/litellm-supply-chain-attack-hoovers-up-passwords-and-secrets/5304548</guid>
+      <enclosure url="https://image.theregister.com/244835.jpg?imageId=244835&amp;panox=0.00&amp;panoy=0.00&amp;panow=100.00&amp;panoh=100.00&amp;heightx=0.00&amp;heighty=0.00&amp;heightw=100.00&amp;heighth=100.00&amp;width=706&amp;height=318&amp;format=webp&amp;format=webp" type="image/jpeg" length="0" />
+      <media:content url="https://image.theregister.com/244835.jpg?imageId=244835&amp;panox=0.00&amp;panoy=0.00&amp;panow=100.00&amp;panoh=100.00&amp;heightx=0.00&amp;heighty=0.00&amp;heightw=100.00&amp;heighth=100.00&amp;width=706&amp;height=318&amp;format=webp&amp;format=webp" medium="image" />
+    </item>
     <item>
       <title>Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl</title>
       <link>https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html</link>
