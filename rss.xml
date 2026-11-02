@@ -5,9 +5,36 @@
     <link>https://raw.githubusercontent.com/smichard/news-feed/main</link>
     <description>curated_collection</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 09:07:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 17:06:28 +0000</lastBuildDate>
     <generator>obsidian-rss-generator</generator>
     <atom:link href="https://raw.githubusercontent.com/smichard/news-feed/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gemini 4 Carbon: our next frontier model</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</link>
+      <description>Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</guid>
+      <enclosure url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png" type="image/jpeg" length="0" />
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png" medium="image" />
+    </item>
+    <item>
+      <title>I Built My Own Intelligent AI Gateway</title>
+      <link>https://www.youtube.com/watch?v=ukv-LIOI6_E</link>
+      <description>Over the last four months, I've been turning a collection of older GPUs and spare hardware into one local AI platform. Instead of buying more powerful GPUs to run bigger models, I wanted to see how mu</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=ukv-LIOI6_E</guid>
+      <enclosure url="https://i.ytimg.com/vi/ukv-LIOI6_E/maxresdefault.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://i.ytimg.com/vi/ukv-LIOI6_E/maxresdefault.jpg" medium="image" />
+    </item>
+    <item>
+      <title>local AI's biggest problem... they solved it?</title>
+      <link>https://www.youtube.com/watch?v=cFdoXn6yvE4</link>
+      <description>Get $600 off either edition of WiCi One, the first wireless GPU, using my link: https://ntck.co/wici_gpuI ran DeepSeek V4.1 Flash, a 750 billion parameter model that normally needs over 500 GB of m</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=cFdoXn6yvE4</guid>
+      <enclosure url="https://i.ytimg.com/vi/cFdoXn6yvE4/maxresdefault.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://i.ytimg.com/vi/cFdoXn6yvE4/maxresdefault.jpg" medium="image" />
+    </item>
     <item>
       <title>Filtering and reducing AI agent telemetry with the OpenTelemetry Collector</title>
       <link>https://www.cncf.io/blog/2026/10/22/filtering-and-reducing-ai-agent-telemetry-with-the-opentelemetry-collector/</link>
